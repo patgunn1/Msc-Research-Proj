@@ -1,4 +1,4 @@
-# Network Identification in International Inflation
+# MSc Statistics Research Project
 
 This repository contains the code and data for the MSc Statistics dissertation *Cross-Sectional and Network Information in International Inflation: Bayesian GNAR with Stochastic Volatility*.
 
